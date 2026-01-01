@@ -1,3 +1,11 @@
+ Live Projects
+
+Exchange Rate Calculator - https://ayush-kev.github.io/Distributed-State-Financial-Management-System/exchange-rate-calculator/
+
+Expense Tracker - https://ayush-kev.github.io/Distributed-State-Financial-Management-System/expense-tracker/
+
+Notes Appv - https://ayush-kev.github.io/Distributed-State-Financial-Management-System/notes-app/
+
 Distributed State Financial Management System
 A robust financial engine built to handle complex state synchronization and background data processing. This project demonstrates how to build a scalable, reactive application architecture using Vanilla JavaScript, simulating the high-stakes data consistency required for Uber’s driver earnings and expense platforms.
 
